@@ -20,7 +20,8 @@ This project serves as a **Resume Management Project** demonstrating hands-on ex
   - `Companies_Worked`: Previous companies  
   - `Years_of_Experience`: Total years of experience  
 
-🗄  Database Schema: The extracted resume details are stored in a structured MySQL database with the following schema:
+🗄  Database Schema: The extracted resume details are stored in a structured MySQL database with the following schema
+
 🔍 SQL Queries & Outputs: We performed multiple SQL queries to analyze and classify resumes. The results are stored in CSV files.
 
 📢 Acknowledgments
